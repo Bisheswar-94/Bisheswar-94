@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR5a3Q2MnE5Z2F5N3d5aW1sZzM5c2N3N2F1b3N6OHp6ZWhmYTR4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lVsYDBC0UVQJCE/giphy.gif" width="100%">
 </p>
 
-# 🚀 Skill Progress
+# Skill Progress
 
 ![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-80%25-red?style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-72%25-green?style=for-the-badge)
 ![Web Security](https://img.shields.io/badge/WebSecurity-68%25-orange?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-78%25-blueviolet?style=for-the-badge)
-# 🧠 Learning Focus
+# Learning Focus
 
 ```text
 Python Projects   ████████████ 35%
@@ -18,7 +18,7 @@ Web Security      ████████ 20%
 Networking        ██████ 15%
 CTF Practice      ████ 10%
 ```
-# 🔥 Current Focus
+# Current Focus
 
 ```yaml
 Learning:
@@ -35,7 +35,7 @@ Building:
   - Subdomain Scanner
   - Directory Scanner
 ```
-# 📡 Profile Views
+# Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bisheswar-94&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -50,7 +50,7 @@ Building:
 > Exploring Linux, Networking & Web Security
 ```
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Building:
 
 </div>
 
-# 🛡️ Cybersecurity Arsenal
+# Cybersecurity Arsenal
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Building:
 
 </div>
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
