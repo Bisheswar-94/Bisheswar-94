@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR5a3Q2MnE5Z2F5N3d5aW1sZzM5c2N3N2F1b3N6OHp6ZWhmYTR4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lVsYDBC0UVQJCE/giphy.gif" width="100%">
-</p>
-
 # Skill Progress
 
 ![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge)
